@@ -13,7 +13,7 @@ FROM golang
 # Set the Current Working Directory inside the container
 WORKDIR /app
 
-RUN go mod init github.com/sgleal97/proyecto2_grupo11_so1
+RUN go mod init github.com/andreaflores/Suficiencia_SO1
 RUN go get github.com/go-redis/redis/v8
 #RUN go mod download
 RUN go get github.com/golang/protobuf/proto
