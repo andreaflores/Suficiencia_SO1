@@ -1,0 +1,142 @@
+[
+  {
+    "name": "William Adolfo Corado Cabrera",
+    "location": "Guatemala city",
+    "age": 20,
+    "infected_type": "imported",
+    "state": "active"
+  },
+  {
+    "name": "Fredy Jose Ramirez Sandoval",
+    "location": "Sacatepequez",
+    "age": 15,
+    "infected_type": "imported",
+    "state": "deceased"
+  },
+  {
+    "name": "Juan Luis Robles Molina",
+    "location": "Chimaltenango",
+    "age": 31,
+    "infected_type": "imported",
+    "state": "active"
+  },
+  {
+    "name": "Nelson Alesandro Gonzalez Perez",
+    "location": "Escuintla",
+    "age": 31,
+    "infected_type": "imported",
+    "state": "recovered"
+  },
+  {
+    "name": "Carlos Antonio Campaneros Benito",
+    "location": "El Progreso",
+    "age": 28,
+    "infected_type": "communitary",
+    "state": "active"
+  },
+  {
+    "name": "Victor Alfonso Lopez Morales",
+    "location": "Quiche",
+    "age": 19,
+    "infected_type": "imported",
+    "state": "active"
+  },
+  {
+    "name": "Bernald Renato Paxtor Peren",
+    "location": "Suchitepequez",
+    "age": 35,
+    "infected_type": "imported",
+    "state": "active"
+  },
+  {
+    "name": "Brandon Javier Soto Casta�eda",
+    "location": "San Marcos",
+    "age": 26,
+    "infected_type": "imported",
+    "state": "recovered"
+  },
+  {
+    "name": "Mario Roberto Cojolon Shoc",
+    "location": "Huehuetenango",
+    "age": 32,
+    "infected_type": "imported",
+    "state": "deceased"
+  },
+  {
+    "name": "Juan Pablo Estrada Aleman",
+    "location": "Totonicapan",
+    "age": 20,
+    "infected_type": "communitary",
+    "state": "active"
+  },
+  {
+    "name": "Jose Javier Barreda Mancilla",
+    "location": "Guatemala city",
+    "age": 30,
+    "infected_type": "imported",
+    "state": "deceased"
+  },
+  {
+    "name": "Carlos David Ramirez Altan",
+    "location": "Guatemala city",
+    "age": 29,
+    "infected_type": "imported",
+    "state": "active"
+  },
+  {
+    "name": "Marellyn Lisbeth Trejo Castro",
+    "location": "Sacatepequez",
+    "age": 29,
+    "infected_type": "imported",
+    "state": "recovered"
+  },
+  {
+    "name": "Maria de Los Angeles Herrera Sumale",
+    "location": "Guatemala city",
+    "age": 20,
+    "infected_type": "imported",
+    "state": "active"
+  },
+  {
+    "name": "Tanya Beatriz Muhun Recinos",
+    "location": "Sacatepequez",
+    "age": 19,
+    "infected_type": "communitary",
+    "state": "active"
+  },
+  {
+    "name": "Carlos Eduardo Monzon Duarte",
+    "location": "Chimaltenango",
+    "age": 22,
+    "infected_type": "imported",
+    "state": "active"
+  },
+  {
+    "name": "Wilson Yuviny Guerra Diaz",
+    "location": "Escuintla",
+    "age": 20,
+    "infected_type": "imported",
+    "state": "recovered"
+  },
+  {
+    "name": "Diana Maribel Jimenez Alonzo",
+    "location": "El Progreso",
+    "age": 33,
+    "infected_type": "imported",
+    "state": "deceased"
+  },
+  {
+    "name": "Irving Samuel Rosales Dominguez",
+    "location": "Quiche",
+    "age": 23,
+    "infected_type": "communitary",
+    "state": "active"
+  },
+  {
+    "name": "Jorge Luis Salazar Peralta",
+    "location": "Suchitepequez",
+    "age": 19,
+    "infected_type": "communitary",
+    "state": "deceased"
+  }
+]
