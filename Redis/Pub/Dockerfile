@@ -2,7 +2,7 @@ FROM golang
 
 WORKDIR /app
 
-RUN go mod init github.com/sgleal97/proyecto2_grupo11_so1
+RUN go mod init github.com/andreaflores/Suficiencia_SO1
 RUN go get github.com/golang/protobuf/proto
 RUN go get github.com/gorilla/mux
 RUN go get github.com/go-redis/redis/v8
