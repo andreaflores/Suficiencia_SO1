@@ -9,7 +9,7 @@ export default class App extends Component{
 
   constructor(props){
       super(props);
-      this.urlG = "localhost";
+      this.urlG = "35.226.217.95";
       this.state = {
             arregloDepartamentos : [],
             arregloCantidad : [],
