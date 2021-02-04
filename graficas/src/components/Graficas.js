@@ -32,7 +32,7 @@ class Graficas extends Component{
 
     componentDidMount(){
 		var chart = this.chart;
-		fetch('http://localhost:3001/departamento')
+		fetch('http://104.197.230.46:3001/departamento')
 		.then(function(response) {
 			return response.json();
 		})
