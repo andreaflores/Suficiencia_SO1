@@ -64,7 +64,7 @@ func main() {
 		err = json.Unmarshal(datos, &nuevo)
 
 		//Crear conexion con mongodb
-		clientOpts := options.Client().ApplyURI(fmt.Sprintf("mongodb+srv://dbUser:dbUser123@clustersuficiencia.knfyx.mongodb.net/enfermedades?retryWrites=true&w=majority"))
+		clientOpts := options.Client().ApplyURI(fmt.Sprintf("mongodb://35.223.38.239:27017"))
 		client, err := mongo.Connect(context.TODO(), clientOpts)
 		if err != nil {
 			log.Fatal(err)

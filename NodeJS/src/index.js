@@ -18,7 +18,7 @@ app.use(bodyParser.urlencoded({extended:true}));
 var database;
 var collection;
 
-const urlmongo = "mongodb+srv://dbUser:dbUser123@clustersuficiencia.knfyx.mongodb.net/enfermedades?retryWrites=true&w=majority"
+const urlmongo = "mongodb://35.223.38.239:27017"
 
 app.listen( 3001, () => {
 	console.log("Server Running");

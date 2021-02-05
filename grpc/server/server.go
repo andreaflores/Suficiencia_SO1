@@ -53,7 +53,7 @@ func (s *server) SayHello(ctx context.Context, in *pb.HelloRequest) (*pb.HelloRe
 	log.Printf("----- Received: %v", info.Name)
 
 	//Crear conexion con mongodb
-	clientOpts := options.Client().ApplyURI(fmt.Sprintf("mongodb+srv://dbUser:dbUser123@clustersuficiencia.knfyx.mongodb.net/enfermedades?retryWrites=true&w=majority"))
+	clientOpts := options.Client().ApplyURI(fmt.Sprintf("mongodb://35.223.38.239:27017"))
 	client, err := mongo.Connect(context.TODO(), clientOpts)
 	if err != nil {
 		log.Printf("Error: %V", err)
